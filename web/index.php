@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Komputer 2";
+echo "Hello Lab 2";
 
 ?>
